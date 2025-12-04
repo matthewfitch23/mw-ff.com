@@ -1,8 +1,7 @@
----
 # This workflow builds and deploys a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
 
-"on":
+on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
