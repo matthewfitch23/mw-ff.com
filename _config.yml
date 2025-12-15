@@ -21,6 +21,9 @@ defaults:
     values:
       author: Matthew Fitch
 
+feed:
+  path: feed.xml
+
 theme: jekyll-theme-low
 plugins:
   - jekyll-feed
