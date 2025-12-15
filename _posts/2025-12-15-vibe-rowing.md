@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Vibe Rowing: How AI helped us row 4 million metres and raise over £20k for Sophia"
+date:   2025-12-15 20:00:00 +0000
+categories: general
+---
+
 # Vibe Rowing: How AI helped us row 4 million metres and raise over £20k for Sophia
 
 ![Sophia Clarke](/assets/images/sophia.jpg)
