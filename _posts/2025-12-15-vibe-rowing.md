@@ -5,8 +5,6 @@ date:   2025-12-15 20:00:00 +0000
 categories: general
 ---
 
-# Vibe Rowing: How AI helped us row 4 million metres and raise over £20k for Sophia
-
 ![Sophia Clarke](/assets/images/sophia.jpg)
 
 Sophia Clarke is a 3-year-old miracle. Born with Campomelic Dysplasia and requiring 24/7 life support, her needs are complex, and her care is costly.
