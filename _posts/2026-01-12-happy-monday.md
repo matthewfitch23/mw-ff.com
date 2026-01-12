@@ -5,7 +5,7 @@ date:   2026-01-12 08:30:00 +0000
 categories: general
 ---
 
-January feels like the Monday of the year. It's cold, slow, and often written off as something to endure. We've even managed to brand part of it as the most depressing day of the year[^1].
+January feels like the Monday of the year. It's cold, slow, and often written off as something to endure. We've even managed to brand part of it as the most depressing day of the year<sup>[[1]](https://en.wikipedia.org/wiki/Blue_Monday_(date))]</sup>.
 
 I’ve always liked Mondays. Not because they’re easy, but because they reset the board. Whatever didn’t happen last week no longer matters. You get a clean slate and another go.
 
@@ -28,4 +28,3 @@ That’s the pattern I keep coming back to. Fresh starts don’t magically chang
 You don’t need a new year to reset. You get one every Monday. But if you’ve got both at once, you might as well use them.
 
 Happy Monday!
-[^1]: [Blue Monday](https://en.wikipedia.org/wiki/Blue_Monday_(date))
